@@ -1,6 +1,6 @@
 ## Olá! Eu sou o John Victor Gomes 🖐️
 
-[![Curriculum](https://img.shields.io/website?label=Curriculum&style=for-the-badge&url=https://www.escavador.com/sobre/490208006/john-victor-gomes)](https://https://www.linkedin.com/in/john-victor-742463115)
+[![Curriculum](https://img.shields.io/website?label=Curriculum&style=for-the-badge&url=https://www.escavador.com/sobre/490208006/john-victor-gomes)](https://www.escavador.com/sobre/490208006/john-victor-gomes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/john-victor-742463115/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/john.v.gomes)
 
